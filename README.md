@@ -84,7 +84,7 @@ http://localhost:5173
 
 Frontend Live URL:
 
-https://your-frontend-link.vercel.app
+https://peaceful-empanada-fa421b.netlify.app/
 🔗 Backend API Link
 
 Backend Base URL:
