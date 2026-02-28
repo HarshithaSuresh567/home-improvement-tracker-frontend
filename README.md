@@ -90,6 +90,7 @@ https://your-frontend-link.vercel.app
 Backend Base URL:
 
 https://your-backend-link.onrender.com/api
+
 🔑 Login Credentials (Demo Account)
 
 You can use the following credentials to test the app:
@@ -102,21 +103,22 @@ Password: 123456
 📸 Screenshots
 🔐 Login Page
 
-(Add screenshot here)
+https://drive.usercontent.google.com/download?id=1OPCVd_xNt0PNcg8sTNHkYsLbh54ugG0-&export=view&authuser=0
 
 📊 Dashboard
 
-(Add screenshot here)
+https://drive.usercontent.google.com/download?id=1VJu4Pgw4nZ-kGM0q2cC1lUJPIpdbP23c&export=view&authuser=0
 
 📁 Projects Page
 
-(Add screenshot here)
+https://drive.usercontent.google.com/download?id=1fNGp6rBzmYUlkoHrp38InoHt_hXI6sAU&export=view&authuser=0
 
 📋 Project Details Page
 
-(Add screenshot here)
+https://drive.usercontent.google.com/download?id=10vL0kU-vPnudpYsUvVNKSkmwrHJD-8Ui&export=view&authuser=0
 
 🎥 Video Walkthrough Link
+
 
 Short demo video explaining:
 
@@ -130,7 +132,8 @@ Uploading photos
 
 Dashboard overview
 
-https://your-video-link.com
+https://drive.google.com/file/d/1kivIGx1nSJX1gESx4AcjJ8F9gr0rJh4m/view?usp=sharing
+
 📌 Folder Structure
 src/
  ├── pages/
@@ -150,11 +153,3 @@ Budget reporting
 Export project report as PDF
 
 Real-time notifications
-
-💡 Extra Professional Tip
-
-Add badges at top:
-
-![React](https://img.shields.io/badge/React-18-blue)
-![Node](https://img.shields.io/badge/Node.js-Express-green)
-![Database](https://img.shields.io/badge/Database-Supabase-orange)
